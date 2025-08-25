@@ -1636,7 +1636,7 @@
   width: 85%;
   height: auto;
   text-decoration: none;
-  display: flex;
+  display: none;
 }
 
 .div-block-4 {
@@ -1839,6 +1839,10 @@
   padding-right: 40px;
   text-decoration: none;
   display: flex;
+}
+
+.code-embed {
+  width: 170px;
 }
 
 @media screen and (min-width: 1440px) {
